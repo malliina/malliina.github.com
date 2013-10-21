@@ -4,7 +4,7 @@
   <title><![CDATA[Malles blog]]></title>
   <link href="http://blog.mskogberg.info/atom.xml" rel="self"/>
   <link href="http://blog.mskogberg.info/"/>
-  <updated>2013-10-22T00:26:03+02:00</updated>
+  <updated>2013-10-22T00:52:45+02:00</updated>
   <id>http://blog.mskogberg.info/</id>
   <author>
     <name><![CDATA[Michael Skogberg]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Evaluating Octopress]]></title>
+    <link href="http://blog.mskogberg.info/blog/2013/10/22/evaluating-octopress/"/>
+    <updated>2013-10-22T00:31:00+02:00</updated>
+    <id>http://blog.mskogberg.info/blog/2013/10/22/evaluating-octopress</id>
+    <content type="html"><![CDATA[<p>This is an evaluation of Octopress.</p>
+
+<h2>Intro</h2>
+
+<p>Intro here.</p>
+]]></content>
+  </entry>
   
 </feed>
