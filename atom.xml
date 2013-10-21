@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Malles blog]]></title>
   <link href="http://blog.mskogberg.info/atom.xml" rel="self"/>
   <link href="http://blog.mskogberg.info/"/>
-  <updated>2013-10-21T23:54:10+02:00</updated>
+  <updated>2013-10-22T00:14:25+02:00</updated>
   <id>http://blog.mskogberg.info/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Michael Skogberg]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
