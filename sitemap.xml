@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.mskogberg.info/blog/2013/10/22/evaluating-octopress/</loc>
+        <lastmod>2013-10-22T00:49:53+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.mskogberg.info/blog/archives/</loc>
+        <lastmod>2013-10-22T00:49:53+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.mskogberg.info/</loc>
+        <lastmod>2013-10-22T00:49:53+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.mskogberg.info/robots.txt</loc>
+        <lastmod>2013-10-21T23:27:11+02:00</lastmod>
+    </url>
+</urlset>
